@@ -1,0 +1,101 @@
+movie_id,title,budget,revenue,genre,director,cast_popularity,rating,votes,release_year,release_month
+1,Avengers: Endgame,356000000,2797800564,Action,Anthony Russo,98.5,8.4,897000,2019,4
+2,The Lion King,260000000,1656943394,Animation,Jon Favreau,85.2,6.9,200000,2019,7
+3,Frozen II,150000000,1450026933,Animation,Chris Buck,79.4,6.8,175000,2019,11
+4,Spider-Man: Far From Home,160000000,1131927996,Action,Jon Watts,91.3,7.4,385000,2019,7
+5,Captain Marvel,152000000,1128274794,Action,Anna Boden,88.7,6.8,450000,2019,3
+6,Joker,55000000,1074251311,Drama,Todd Phillips,76.4,8.4,987000,2019,10
+7,It Chapter Two,79000000,473093228,Horror,Andy Muschietti,71.2,6.5,210000,2019,9
+8,Hobbs & Shaw,200000000,759058048,Action,David Leitch,84.1,6.4,175000,2019,8
+9,Aladdin,183000000,1051512665,Animation,Guy Ritchie,82.3,7.0,210000,2019,5
+10,Toy Story 4,200000000,1073394593,Animation,Josh Cooley,89.5,7.7,348000,2019,6
+11,The Dark Knight,185000000,1004558444,Action,Christopher Nolan,95.8,9.0,2400000,2008,7
+12,Inception,160000000,836836967,Sci-Fi,Christopher Nolan,94.2,8.8,2200000,2010,7
+13,Interstellar,165000000,701729206,Sci-Fi,Christopher Nolan,93.1,8.6,1700000,2014,11
+14,Dunkirk,100000000,526944767,War,Christopher Nolan,90.4,7.9,620000,2017,7
+15,The Prestige,40000000,109676311,Drama,Christopher Nolan,82.7,8.5,1300000,2006,10
+16,John Wick,20000000,88768000,Action,Chad Stahelski,72.1,7.4,540000,2014,10
+17,John Wick 2,40000000,171484257,Action,Chad Stahelski,79.3,7.5,390000,2017,2
+18,John Wick 3,75000000,326709788,Action,Chad Stahelski,83.6,7.4,290000,2019,5
+19,Parasite,11363000,258710521,Thriller,Bong Joon-ho,68.4,8.5,680000,2019,10
+20,Marriage Story,18000000,2300000,Drama,Noah Baumbach,65.2,7.9,195000,2019,11
+21,Little Women,40000000,218830983,Drama,Greta Gerwig,74.8,7.8,142000,2019,12
+22,Once Upon a Time in Hollywood,90000000,374251588,Drama,Quentin Tarantino,88.4,7.6,510000,2019,7
+23,1917,95000000,384910200,War,Sam Mendes,82.3,8.3,425000,2019,12
+24,Knives Out,40000000,312898855,Mystery,Rian Johnson,79.5,7.9,455000,2019,11
+25,Jojo Rabbit,14000000,83023000,Comedy,Taika Waititi,71.3,7.9,297000,2019,10
+26,The Irishman,159000000,8000000,Crime,Martin Scorsese,87.2,7.8,405000,2019,11
+27,Ad Astra,80000000,135941645,Sci-Fi,James Gray,74.1,6.0,195000,2019,9
+28,Downton Abbey,13000000,194000000,Drama,Michael Engler,67.4,7.2,45000,2019,9
+29,Cats,95000000,75500000,Musical,Tom Hooper,72.1,2.8,64000,2019,12
+30,Charlie's Angels,48000000,73245000,Action,Elizabeth Banks,69.3,4.3,42000,2019,11
+31,Dark Phoenix,200000000,252442974,Action,Simon Kinberg,80.2,5.7,130000,2019,6
+32,Terminator Dark Fate,185000000,261122165,Action,Tim Miller,81.4,6.2,140000,2019,10
+33,Men in Black International,110000000,253830453,Action,F. Gary Gray,76.8,5.6,110000,2019,6
+34,Shazam!,100000000,366000000,Action,David F. Sandberg,79.2,7.0,245000,2019,4
+35,Rocketman,40000000,195200000,Biography,Dexter Fletcher,71.4,7.3,131000,2019,5
+36,Bohemian Rhapsody,52000000,910802688,Biography,Bryan Singer,78.9,7.9,382000,2018,11
+37,A Star Is Born,36000000,436188866,Drama,Bradley Cooper,84.2,7.6,350000,2018,10
+38,Green Book,23000000,321750126,Drama,Peter Farrelly,72.8,8.2,445000,2018,11
+39,BlacKkKlansman,15000000,93001607,Drama,Spike Lee,74.1,7.5,248000,2018,8
+40,If Beale Street Could Talk,12000000,17000000,Drama,Barry Jenkins,67.8,7.3,44000,2018,11
+41,Sorry to Bother You,3500000,17500000,Comedy,Boots Riley,62.4,6.9,73000,2018,7
+42,Hereditary,10000000,79836241,Horror,Ari Aster,68.9,7.3,275000,2018,6
+43,Midsommar,9000000,6886291,Horror,Ari Aster,67.4,7.1,220000,2019,7
+44,Us,20000000,255105930,Horror,Jordan Peele,71.8,6.8,243000,2019,3
+45,Get Out,4500000,255407663,Horror,Jordan Peele,68.3,7.7,447000,2017,2
+46,IT,35000000,701842566,Horror,Andy Muschietti,72.6,7.4,492000,2017,9
+47,A Quiet Place,17000000,340952971,Horror,John Krasinski,73.4,7.5,400000,2018,4
+48,Bird Box,19800000,0,Thriller,Susanne Bier,72.1,6.6,245000,2018,12
+49,Roma,15000000,0,Drama,Alfonso Cuaron,81.2,7.7,192000,2018,11
+50,The Favourite,14000000,22826000,Drama,Yorgos Lanthimos,74.3,7.5,199000,2018,11
+51,BlackPanther,200000000,1347597973,Action,Ryan Coogler,89.4,7.3,680000,2018,2
+52,Avengers Infinity War,325000000,2048359754,Action,Anthony Russo,97.2,8.4,850000,2018,4
+53,Deadpool 2,110000000,785046920,Action,David Leitch,84.7,7.7,500000,2018,5
+54,Ant-Man and the Wasp,162000000,622674139,Action,Peyton Reed,80.3,7.0,340000,2018,7
+55,Venom,116000000,854765792,Action,Ruben Fleischer,76.4,6.6,285000,2018,10
+56,Aquaman,160000000,1147561807,Action,James Wan,82.7,6.8,440000,2018,12
+57,Ready Player One,175000000,582890172,Sci-Fi,Steven Spielberg,89.3,7.4,380000,2018,3
+58,Mission Impossible Fallout,178000000,791115963,Action,Christopher McQuarrie,85.2,7.7,340000,2018,7
+59,Crazy Rich Asians,30000000,238532921,Romance,Jon M. Chu,71.4,6.9,188000,2018,8
+60,Night School,29000000,111007671,Comedy,Malcolm D. Lee,68.2,5.2,35000,2018,9
+61,First Man,59000000,105737830,Biography,Damien Chazelle,78.9,7.3,158000,2018,10
+62,The Meg,130000000,530243742,Action,Jon Turteltaub,74.1,5.6,126000,2018,8
+63,Rampage,120000000,428015067,Action,Brad Peyton,74.8,6.1,124000,2018,4
+64,Pacific Rim Uprising,150000000,290014904,Action,Steven S. DeKnight,72.3,4.9,84000,2018,3
+65,Mamma Mia Here We Go Again,75000000,394966668,Musical,Ol Parker,73.6,6.7,95000,2018,7
+66,The Nun,22000000,365557776,Horror,Corin Hardy,68.7,5.3,129000,2018,9
+67,Halloween,10000000,255458946,Horror,David Gordon Green,70.1,6.5,154000,2018,10
+68,Widows,42000000,73972706,Crime,Steve McQueen,78.2,6.8,101000,2018,11
+69,Fahrenheit 11/9,0,6253247,Documentary,Michael Moore,71.4,6.6,12000,2018,9
+70,Won't You Be My Neighbor,0,22694785,Documentary,Morgan Neville,73.8,8.2,28000,2018,6
+71,Bohemian Rhapsody,52000000,910802688,Biography,Bryan Singer,78.9,7.9,382000,2018,11
+72,Glass,20000000,247168584,Thriller,M. Night Shyamalan,71.3,6.7,187000,2019,1
+73,Split,9000000,278454358,Thriller,M. Night Shyamalan,72.4,7.3,300000,2016,1
+74,The Visit,5000000,98507160,Horror,M. Night Shyamalan,68.9,6.2,118000,2015,9
+75,Signs,72000000,408247917,Sci-Fi,M. Night Shyamalan,80.3,6.9,335000,2002,8
+76,Uncut Gems,19000000,50022962,Crime,Safdie Brothers,70.1,7.4,226000,2019,12
+77,Good Time,1000000,2031484,Crime,Safdie Brothers,65.8,7.4,113000,2017,8
+78,La La Land,30000000,446486225,Musical,Damien Chazelle,79.8,8.0,630000,2016,12
+79,Whiplash,3300000,49028774,Drama,Damien Chazelle,73.2,8.5,640000,2014,10
+80,The Shape of Water,19400000,195246112,Fantasy,Guillermo del Toro,79.1,7.3,292000,2017,12
+81,Blade Runner 2049,150000000,259239658,Sci-Fi,Denis Villeneuve,86.4,8.0,517000,2017,10
+82,Arrival,47000000,203388186,Sci-Fi,Denis Villeneuve,82.3,7.9,585000,2016,11
+83,Sicario,30000000,84659735,Thriller,Denis Villeneuve,83.7,7.6,399000,2015,9
+84,Enemy,8000000,1018565,Thriller,Denis Villeneuve,74.2,6.9,174000,2013,3
+85,Prisoners,46000000,122194776,Thriller,Denis Villeneuve,83.9,8.1,618000,2013,9
+86,Mad Max Fury Road,150000000,375436354,Action,George Miller,88.4,8.1,770000,2015,5
+87,The Revenant,135000000,533036845,Adventure,Alejandro Inarritu,88.7,8.0,590000,2015,12
+88,Birdman,18000000,103215094,Drama,Alejandro Inarritu,82.4,7.7,473000,2014,10
+89,The Hateful Eight,44000000,155760117,Western,Quentin Tarantino,85.3,7.8,520000,2015,12
+90,Django Unchained,100000000,425368238,Western,Quentin Tarantino,88.2,8.4,1400000,2012,12
+91,Inglourious Basterds,70000000,321457747,War,Quentin Tarantino,86.7,8.3,1400000,2009,8
+92,Pulp Fiction,8000000,213928762,Crime,Quentin Tarantino,84.9,8.9,2000000,1994,9
+93,Reservoir Dogs,1200000,2832029,Crime,Quentin Tarantino,81.2,8.3,1100000,1992,1
+94,Kill Bill Volume 1,30000000,180906076,Action,Quentin Tarantino,83.4,8.1,1000000,2003,10
+95,Gravity,100000000,723192705,Sci-Fi,Alfonso Cuaron,88.3,7.7,730000,2013,10
+96,Children of Men,76000000,69715811,Sci-Fi,Alfonso Cuaron,83.8,7.9,438000,2006,12
+97,Spectre,245000000,879620923,Action,Sam Mendes,85.2,6.8,390000,2015,10
+98,Skyfall,200000000,1108561013,Action,Sam Mendes,86.3,7.7,580000,2012,11
+99,Casino Royale,150000000,594239066,Action,Martin Campbell,84.7,8.0,670000,2006,11
+100,Moonraker,31000000,210308099,Action,Lewis Gilbert,72.4,6.2,95000,1979,6
