@@ -13,6 +13,7 @@ from utils       import print_section, get_logger, ensure_output_dir
 from etl         import run_etl
 from model       import run_models
 from visualize   import run_visualizations
+from ui          import show_dashboard
 
 log = get_logger("Main")
 
@@ -34,7 +35,7 @@ def main():
     # ── 3. Visualizations ─────────────────────────────────────────────────────
     paths = run_visualizations(results=results, importances=importances)
 
-    # ── 4. Summary ────────────────────────────────────────────────────────────
+    # ── 4. Summary & Launch Dashboard UI ──────────────────────────────────────
     print_section("PROJECT COMPLETE ✓")
     print(f"  Best Model  : {best_name}")
     print(f"  Charts      : {len(paths)} files saved in outputs/")
@@ -43,6 +44,20 @@ def main():
     for p in paths:
         print(f"    • {os.path.basename(p)}")
     print()
+    
+    # Prepare results data for UI
+    results_data = {
+        "best_model": best_name,
+        "charts_count": len(paths),
+        "charts": paths,
+        "results": results,
+        "importances": importances
+    }
+    
+    # Launch dashboard UI
+    print_section("LAUNCHING DASHBOARD UI")
+    print("  Opening visualization dashboard...")
+    show_dashboard(results_data)
 
 
 if __name__ == "__main__":
